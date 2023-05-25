@@ -8,9 +8,9 @@ pstage/
 scripts/oe-git-proxy-socks
 sources/
 meta-*/
-meta/
-bitbake/
-documentation/
+/meta/
+/bitbake/
+/documentation/
 buildtools/
 !meta-skeleton
 !meta-selftest
